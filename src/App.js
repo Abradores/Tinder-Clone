@@ -23,7 +23,7 @@ function App() {
             <Chats />
 
           </Route>
-          <Route path="/">
+          <Route path="/test">
             <Header />
             <TinderCards />
             <SwipeButtons />
