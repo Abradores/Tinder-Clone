@@ -20,7 +20,8 @@ function App() {
           <Route path="/chat">
             <Header backbutton="/" />
             <Chats />
-            
+            <Chats />
+
           </Route>
           <Route path="/">
             <Header />
